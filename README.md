@@ -51,21 +51,6 @@ Chef Notes is a modern web application that helps users cook delicious meals wit
 
 ---
 
-## 📂 Project Structure
-
-/index.html
-/about.html
-/category.html
-/food.html
-/food-detail.html
-/login.html
-/signup.html
-/style.css
-/js
-├── app.js
-├── food.js
-└── food-detail.js
-
 📌 Future Enhancements
 
 - Save favorite recipes  
